@@ -27,4 +27,6 @@ Terdapat enam file kelas yang isinya terdapat di bagian desain program kemudian 
 
 ## Dokumentasi
 
+Output program:
+
 ![output_cpp](https://user-images.githubusercontent.com/100891594/224454550-805a14a0-797c-433a-be88-326c112419f0.png)
